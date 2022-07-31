@@ -176,7 +176,7 @@ For example, if you were using @babel/preset-react and @babel/preset-env your .b
 
 \*_index.js_
 
-Write a basic ReactDOM.render in your entry file. (here: client/index.js)
+Write a basic ReactDOM.render in your entry file. (here: client/index.js)--></br>
 {
 import React from 'react';
 import ReactDOM from 'react-dom';
