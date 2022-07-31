@@ -66,6 +66,16 @@ export default function Description() {
               webpack-dev-server.
             </ListItemText>
           </ListItem>
+          <ListSubheader>Using icons</ListSubheader>
+          <ListItemText>
+            react-icons and material-ui icons. Also found how to use emojis in
+            code through this article
+          </ListItemText>
+          <ListItemText>
+            <Link href="https://medium.com/@seanmcp/%EF%B8%8F-how-to-use-emojis-in-react-d23bbf608bf7">
+              How to use emojis in react
+            </Link>
+          </ListItemText>
         </List>
       </Typography>
     </Paper>
