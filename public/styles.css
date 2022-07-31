@@ -20,15 +20,7 @@
 
 /* .colorArea button {
   padding: 10px;
-  font-size: 16px;
   margin: 10px;
-  background-color: #666;
-  color: #fff;
-  border: 2px solid #666;
-}
-
-.colorArea button:hover {
-  background-color: #111;
-  border-color: #111;
-  cursor: pointer;
+  align-items: center;
+  justify-content: center;
 } */
