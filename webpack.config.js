@@ -35,11 +35,6 @@ module.exports = {
         test: /\.svg$/,
         use: ['@svgr/webpack'],
       },
-      {
-        test: /\.png$/,
-        loader: 'file-loader',
-      },
     ],
   },
 };
-//https://github.com/webpack/webpack-cli/blob/master/SERVE-OPTIONS-v4.md

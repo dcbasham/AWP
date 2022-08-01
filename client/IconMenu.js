@@ -29,19 +29,23 @@ export default function IconMenu() {
           </ListItemText>
         </MenuItem>
         <MenuItem>
-          <ListItemIcon style={{ height: '24px' }}>
+          <ListItemIcon style={{ height: '20px' }}>
             <img
               alt="cypress.io"
               src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/16c7d/cypress-logo.png"
             />
           </ListItemIcon>
-          <ListItemText>
+          <ListItemText style={{ padding: '10px' }}>
             <Link href="https://www.cypress.io/">Cypress.io</Link>
           </ListItemText>
         </MenuItem>
         <MenuItem>
           <ListItemIcon>
-            <Avatar src="https://v4.mui.com/static/logo.png" alt="mui_icon" />
+            <Avatar
+              style={{ height: '20px' }}
+              src="https://v4.mui.com/static/logo.png"
+              alt="mui_icon"
+            />
           </ListItemIcon>
           <ListItemText>
             <Link href="https://mui.com/material-ui/api/avatar/">
@@ -80,6 +84,16 @@ export default function IconMenu() {
               alt="react-icons"
             >
               react-icons
+            </Link>
+          </ListItemText>
+        </MenuItem>
+        <MenuItem>
+          <ListItemIcon>
+            <Emoji symbol="👍" label="thumbsupEmoji" />
+          </ListItemIcon>
+          <ListItemText>
+            <Link href="https://medium.com/@seanmcp/%EF%B8%8F-how-to-use-emojis-in-react-d23bbf608bf7">
+              Using emojis in react
             </Link>
           </ListItemText>
         </MenuItem>

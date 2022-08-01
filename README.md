@@ -1,5 +1,7 @@
 This is my AsyncWeek Project
 
+https://youtu.be/rzGR2d5Oa5M
+
 During the week I checked out:
 -Cypress.io
 -testing with Jest
@@ -8,17 +10,6 @@ During the week I checked out:
 -using @mui library
 -creating webpack config and using webpack-dev-server.
 -using codeSandbox
-
--Although i don't have a whole lot to show --( because I got really frustrated with esLint, sequelize, and seeding and scrapped entire projects into the trash more than once ;)
-
-\*\*\*see directories:
-{
-~/testing/BoilerPlate (using @mui components)
-2206/asyncWk -->
-(this one went fairly ok until i got to seeding data and making models and I wanted to switch focus back to react and the front end )
-\*\* 2206/showhex (old version of this project before refactor)
-
-};
 
 I did learn a lot:
 
@@ -35,5 +26,17 @@ I learned the value of:
 - don't fix what's not already broken- it's definently easier and more time-conscious to start with something that is already functional and tweak it to suit my purposes.
   AND
   -using codeSandbox to test ideas instead of testing code in vsCode and having to setup an entire project, server etc. and look at it in the browser.
-  \*\*\* see codesandbox.io sandboxes
   -- writing tests before writing code is very important and will actually help me write better code by having a clear direction and expected outcome.! I'd like to focus more on that next.
+
+book where I got the colorizer inspiration from: https://www.amazon.com/Learning-React-Hands-Building-Applications-dp-013484355X/dp/013484355X/ref=dp_ob_title_bk
+
+example:
+
+https://www.kirupa.com/react/examples/colorizer.htm
+
+other sites:
+
+https://uiwjs.github.io/react-color/#/sketch
+
+emoji file:
+https://medium.com/@seanmcp/%EF%B8%8F-how-to-use-emojis-in-react-d23bbf608bf7
