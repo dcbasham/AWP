@@ -1,17 +1,18 @@
-Project Video: 
+# Project Video: 
 
 https://youtu.be/rzGR2d5Oa5M
 
-During the week I checked out:
--Cypress.io
--testing with Jest
+## Project 
+- Color Picker component and front end frameworks 
+
+### My learning objectives
 -creating projects from scratch in vsCode, trying to use memory.
 -creating projects with create-react-app
 -using @mui library
 -creating webpack config and using webpack-dev-server.
 -using codeSandbox
 
-I did learn a lot:
+### What I did/ learned
 
 --more experience setting up .eslintrc.json files for projects being compiled by webpack/babel
 
