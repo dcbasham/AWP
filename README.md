@@ -23,7 +23,7 @@ https://uiwjs.github.io/react-color/#/
 although i do enjoy learning by doing
 I learned the value of:
 
-- don't fix what's not already broken- it's definently easier and more time-conscious to start with something that is already functional and tweak it to suit my purposes.
+-- starting from scratch isn't always the best course- it's definently easier and more time-conscious to start with something that is already functional and tweak it to suit my purposes.
   AND
   -using codeSandbox to test ideas instead of testing code in vsCode and having to setup an entire project, server etc. and look at it in the browser.
   -- writing tests before writing code is very important and will actually help me write better code by having a clear direction and expected outcome.! I'd like to focus more on that next.
